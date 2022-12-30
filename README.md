@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D1N04ARL0S
 - 👀 I’m interested in games
-- 🌱 I’m currently learning programming (PHP) and (jAVASCRIPT)
+- 🌱 I’m currently learning programming (PHP) and (JAVASCRIPT)
 
 <!---
 D1N04ARL0S/D1N04ARL0S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
